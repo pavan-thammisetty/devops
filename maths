@@ -1,3 +1,7 @@
 a = 10
 b = 20
 print(a+b)
+
+n=200
+o=300
+print(n+o)
